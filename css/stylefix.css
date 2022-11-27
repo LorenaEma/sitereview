@@ -241,6 +241,19 @@ nav .search_box span:hover::after{
     color: #b06264;
 }
 
+.textrev{
+    float: left;
+    width: 1500px;
+    font-size: 24px;
+    color: #b06264;
+    height: 45px;
+    line-height: 42px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+
 
 
 
