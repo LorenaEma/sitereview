@@ -209,7 +209,7 @@ nav .search_box span:hover::after{
     width: 800px;
     font-size: 24px;
     color: #b06264;
-    height: 50px;
+    height: 45px;
     line-height: 42px;
     text-align: center;
     margin-top: 100px;
@@ -217,8 +217,8 @@ nav .search_box span:hover::after{
 }
 
 .social_media{
-    float: left;
-    width: 800px;
+    float: right;
+    width: 600px;
     font-size: 24px;
     color: #b06264;
     height: 45px;
