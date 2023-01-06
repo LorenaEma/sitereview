@@ -206,10 +206,10 @@ nav .search_box span:hover::after{
 
 .text{
     float: left;
-    width: 1500px;
+    width: 800px;
     font-size: 24px;
     color: #b06264;
-    height: 45px;
+    height: 50px;
     line-height: 42px;
     text-align: center;
     margin-top: 100px;
@@ -218,7 +218,7 @@ nav .search_box span:hover::after{
 
 .social_media{
     float: left;
-    width: 1500px;
+    width: 800px;
     font-size: 24px;
     color: #b06264;
     height: 45px;
